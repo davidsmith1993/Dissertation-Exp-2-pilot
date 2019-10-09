@@ -1,0 +1,13 @@
+WELCOME TO THIS PART OF THE EXPERIMENT
+
+I've divided a number of images into two categories (category A and category B).
+Your task is to learn, by trial-and-error, which images belong in each category.
+When you first start, you'll be guessing, but over time you should try to
+improve, and increase your accuracy.
+
+The images look like sewer gratings and the width and/or angle of the grates 
+will vary from trial to trial. On each trial, you will see one image. 
+The width and angle of the grating is represented in the image. 
+Both the width and the angle will be important for determining the correct category.
+
+Press the space bar to see examples of the images. 

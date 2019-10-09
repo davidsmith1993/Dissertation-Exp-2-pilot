@@ -1,0 +1,18 @@
+Recall, your task is to learn, by trial-and-error, which images belong in each category.
+When you first start, you'll be guessing, but over time you should try to
+improve and increase your accuracy. Your goal is to be as accurate as possible. 
+In fact, it is possible to be correct on every trial. To help you gauge your 
+performance, at the end of each block (4 total) you will be told how accurate you were 
+(i.e., your percent correct). Your goal is to increase your accuracy to 100% correct.
+
+
+
+
+The experimenter will review the instructions and answer any questions 
+you may have. Please do not hesitate to ask questions - these 
+instructions are complicated and questions are expected.
+
+
+
+Press the space bar to continue.
+

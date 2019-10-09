@@ -1,0 +1,69 @@
+filename = S99_CONtrain_RBtest__map1 
+date = 26-Sep-2018 
+
+
+CONDITION INFORMATION:
+Subject Number = 99 
+Task = RB
+Gender = female
+Age= 1 
+
+TIMING VARIABLES (in seconds):
+fixation duration =  0.000 
+stimulus duration = 15.000 
+Subject must respond within = 15.000 
+fb duration =  2.000 
+ITI =  1.000 
+Experiment began =  2018  9  26  10  59  33 
+Experiment duration (minutes) =  2.112 
+
+POSITION VARIABLES:
+Assumed distance between subject and monitor = 558.800000 
+
+STIMULUS VARIABLES:
+Stimulus: gratings varying in spatial frequency (arbitrary) and angle (arbitrary). 
+     Converted to cycles/degree (ultimately cycles/image) and degrees from horizontal. 
+Orientation scaling factors:
+ 20.00
+  0.90
+orientation scaling: scaled_or = data.o_gain(1)+data.o_gain(2)*arbitrary_or; Visual angle = 5.000000 
+Spatial frequency scaling factors:
+  0.25
+  0.02
+spatial frequency scaling: scaled_sf = data.sf_gain(1)+data.sf_gain(2)*arbitrary_sf; 
+RESPONSE VARIABLES:
+If the category-keyboard mapping = 1 (i.e., using right hand), n=catA, j=catB
+If the category-keyboard mapping = 2 (i.e., using left hand), v=catA, f=catB
+Category-keyboard mapping = 1 n=catA, j=catB 
+
+OTHER VARIABLES:
+number of training blocks = 5 
+Trials per block = 80 
+Total number of trials = 400 
+Monitor size = 16 inch monitor (horizontal) 
+Monitor resolution = 1600 x 1200resolution 
+
+Percent correct by block :
+  0.00
+  0.00
+  0.00
+ 22.50
+  0.00
+
+RT (in ms) by block (includes correct trials with RT < data.rt_cutoff):
+  0.00
+  0.00
+  0.00
+982.84
+  0.00
+RT cutoff used to compute avg RT = 5000.000000 
+
+
+DATA FILE FORMAT:
+     columns are [cat, un-scaled_sf, un-scaled_orient, resp, RT, index (for stimulus lookup table), fb, trialWithinExperiment, trialWithinBlock, block] ; 
+     rows of data file are trials
+
+
+ Questionnaire DATA FILE FORMAT (filename appended with "_Q") :
+     columns are questions with number of total questions = data.num_preAppraisal+data.num_manipulationCheck+data.num_postAppraisal ; 
+     rows are: [data.sub data.cs data.trierTiming data.trierType question resp rt]
